@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/project-react/static/css/main.d80922ac.chunk.css",
+    "main.js": "/project-react/static/js/main.6694c394.chunk.js",
+    "main.js.map": "/project-react/static/js/main.6694c394.chunk.js.map",
+    "runtime-main.js": "/project-react/static/js/runtime-main.eaa63738.js",
+    "runtime-main.js.map": "/project-react/static/js/runtime-main.eaa63738.js.map",
+    "static/js/2.06a10e9b.chunk.js": "/project-react/static/js/2.06a10e9b.chunk.js",
+    "static/js/2.06a10e9b.chunk.js.map": "/project-react/static/js/2.06a10e9b.chunk.js.map",
+    "index.html": "/project-react/index.html",
+    "static/css/main.d80922ac.chunk.css.map": "/project-react/static/css/main.d80922ac.chunk.css.map",
+    "static/js/2.06a10e9b.chunk.js.LICENSE.txt": "/project-react/static/js/2.06a10e9b.chunk.js.LICENSE.txt",
+    "static/media/laptop.f27f44db.jpg": "/project-react/static/media/laptop.f27f44db.jpg",
+    "static/media/monitor.8ed8f91e.jpg": "/project-react/static/media/monitor.8ed8f91e.jpg",
+    "static/media/printer.482c44fb.jpg": "/project-react/static/media/printer.482c44fb.jpg",
+    "static/media/smartWatch.4d21ede6.jpg": "/project-react/static/media/smartWatch.4d21ede6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eaa63738.js",
+    "static/js/2.06a10e9b.chunk.js",
+    "static/css/main.d80922ac.chunk.css",
+    "static/js/main.6694c394.chunk.js"
+  ]
+}
